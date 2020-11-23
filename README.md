@@ -54,5 +54,3 @@ git clone https://github.com/Diego23p/IETI_13.git
 ![](/img/1.png)
 
 ![](/img/2.png)
-
-## Parte 2: Implementación de capa de red
